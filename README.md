@@ -1,12 +1,11 @@
-### Hola soy Juan Cruz Lizarraga 👋
+![](https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 
-<!--
-**JuanC1414/JuanC1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+## Hola soy Juan Cruz Lizárraga
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on any web development work
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about Web design
-- 📫 How to reach me: Email: juancruzlizarraga@hotmail.com  <-->  Ig: yourboyprogrammer 
+### 💡 < Aprendamos a programar juntos /> 💡
+
+  :computer: HTML ▪︎ CSS ▪︎ JS ▪︎ QA <br/>
+  :camera: Fotos, Tips, Memes y Mas [Instagram](https://www.instagram.com/yourboyprogrammer/) <br/>
+  :video_camera: A veces me vuelvo Youtuber DEV [Youtube](https://www.youtube.com/channel/UC4I86a9s23t04Ynu2OiSr6g) <br/>
+  :email: juancruzlizarraga@hotmail.com <br/>
+  🔊 [Spotify](open.spotify.com/playlist/2ro2zwgSbA7x9e9x0BSPvp?si=f8a5671fd66b4137)
